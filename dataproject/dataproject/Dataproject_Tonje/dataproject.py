@@ -194,3 +194,27 @@ plt.show()
 
 
 ##Regression: 
+from linearmodels.panel import PooledOLS
+from linearmodels.panel import RandomEffects
+from linearmodels import PanelOLS
+import statsmodels.api as sm
+
+data_wb.reset_index(inplace = True )
+print(data_wb.head())
+data_wb = data_wb.set_index(["country","year"], append=False)
+
+#Pooled OLS 
+exog_vars = ['gdp_pC', 'pop', 'urban_pop%']
+exog = sm.add_constant(data_wb[exog_vars])
+mod = PooledOLS(data_wb.frt, exog)
+pooled_res = mod.fit()
+print(pooled_res)
+
+#Panel data regression 
+data_wb.frt
+exog_vars = ['gdp_pC', 'pop', 'urban_pop%']
+exog = sm.add_constant(data_wb[exog_vars])
+mod = PanelOLS(data_wb.frt, exog, entity_effects=True, time_effects=True)
+pooled_res = mod.fit()
+print(pooled_res)
+
