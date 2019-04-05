@@ -191,3 +191,6 @@ fig = plt.subplots(figsize = (10,10))
 sns.set(font_scale=1.5)
 sns.heatmap(data_wb.corr(),square = True,cbar=True,annot=True,annot_kws={'size': 10})
 plt.show()
+
+
+##Regression: 
