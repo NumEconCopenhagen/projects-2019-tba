@@ -9,7 +9,7 @@ The notebook is organized as follows
     - Interactive GDP per capital plot
     - World map displaying GDP per capita
     - Data visualization on fertility rate
-3. Regression ?
+3. Regression
 
 
 In addition to this README-file, the repository contains a jupyter notebook which presents all the results and python model named dataproject which contains the code. 
@@ -21,3 +21,4 @@ pip install wbdata
 pip install folium
 pip install matplotlib 
 pip install ipywidgets
+pip install linearmodels 
