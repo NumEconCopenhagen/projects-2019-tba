@@ -1,7 +1,7 @@
 name: base
 channels:
 - conda-forge
-dependencies:
+dependencies:u
   - nodejs
   - ipympl
   - python
