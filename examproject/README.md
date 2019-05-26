@@ -4,7 +4,7 @@ In our exam project we look at
 
 - Human Capital Accumulation Model
 - AS/AD Model
-- Exchange Model
+- Exchange Economy
 
 and answer the respective questions.
 
