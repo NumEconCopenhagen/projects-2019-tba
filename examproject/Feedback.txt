@@ -1,0 +1,27 @@
+**Tonje Arnesen(tqw106)**
+Data project
+- TM and MP: https://github.com/NumEconCopenhagen/projects-2019-tm-and-mp
+- Pytonen: https://github.com/NumEconCopenhagen/projects-2019-pytonen
+
+Model project:
+- CR: https://github.com/NumEconCopenhagen/projects-2019-cr
+- CCL: https://github.com/NumEconCopenhagen/projects-2019-ccl 
+
+**Bianca Kirschbaum (rkp909)**
+Data project
+- NX31: https://github.com/NumEconCopenhagen/projects-2019-nx31
+- Zuca & Tugas: https://github.com/NumEconCopenhagen/projects-2019-zuca-tugas
+
+Model Project:
+- Faetter BR: https://github.com/NumEconCopenhagen/projects-2019-faetter-br
+- MK: https://github.com/NumEconCopenhagen/projects-2019-mk
+
+
+**Marie Lisa Sailer**
+Data project:
+- cr: https://github.com/NumEconCopenhagen/projects-2019-cr
+- msc:https://github.com/NumEconCopenhagen/projects-2019-msc
+
+Model project:
+- bcg: https://github.com/NumEconCopenhagen/projects-2019-bcg
+- ourgroupname: https://github.com/NumEconCopenhagen/projects-2019-ourgroupname
